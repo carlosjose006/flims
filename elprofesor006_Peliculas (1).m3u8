@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/DKyIFfK.png" group-title="Extrenos", Saw X
+http://clubtv.link/s1311/top4451/movies.php?c=swx
+#EXTINF:-1 tvg-logo="https://imgur.com/ckvlPDl.png" group-title="Extrenos", Five Nights at Freddy's
+http://clubtv.link/s1311/top4451/movies.php?c=five
 #EXTINF:-1,Malos Padres
 #EXTGRP:Dominicanas
 https://ia601200.us.archive.org/2/items/shi-mashilosshi-pashidres/ShiMashilosshiPashidres.mp4
