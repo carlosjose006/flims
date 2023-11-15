@@ -368,28 +368,28 @@ https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 #EXTINF:0,Piratas Del Caribe 3 (2017)
 #EXTGRP:Peliculas
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
-#EXTINF:0,Trolls3
+#EXTINF:-1,Trolls3
 #EXTGRP:Animadas
 https://archive.org/download/master_20231113/master.mkv
-#EXTINF:0,The Marvel
+#EXTINF:-1,The Marvel
 #EXTGRP:Extrenos
 https://archive.org/download/t-3-m-v-3l/T%243M%40V3l.mp4
-#EXTINF:0,Grito de Libertad
+#EXTINF:-1,Grito de Libertad
 #EXTGRP:Extrenos
 https://archive.org/download/master_202311/master.mkv
-#EXTINF:0,Flow De Calle
+#EXTINF:-1,Flow De Calle
 #EXTGRP:Dominicanas
 https://archive.org/download/v_20231114/v.mp4
-#EXTINF:0,SankiPanki
+#EXTINF:-1,SankiPanki
 #EXTGRP:Dominicanas
 https://ia600502.us.archive.org/12/items/capture_2023-11-14_06-47-31ShiSanShiki/capture_2023-11-14_06-47-31ShiSanShiki.mp4
-#EXTINF:0,Perico Ripiao
+#EXTINF:-1,Perico Ripiao
 #EXTGRP:Dominicanas
 https://ia601200.us.archive.org/19/items/shi-peshirishico-shi-rishipishiao-2023-11-14-07-11-25/ShiPeshirishico%20shiRishipishiao_2023-11-14_07-11-25.mp4
-#EXTINF:0,La vida de los reyes
+#EXTINF:-1,La vida de los reyes
 #EXTGRP:Dominicanas
 https://ia801904.us.archive.org/22/items/shi-la-shivishida-shide-shilos-shi-reshiyes-2023-11-14-07-16-56/ShiLa%20SHivishida%20shide%20shilos%20shiReshiyes_2023-11-14_07-16-56.mp4
-#EXTINF:0,Llego Juanita
+#EXTINF:-1,Llego Juanita
 #EXTGRP:Dominicanas
 https://ia601200.us.archive.org/1/items/shi-jushianishita-2023-11-14-07-18-43/ShiJushianishita_2023-11-14_07-18-43.mp4
 #EXTINF:0,TUS MASCOTAS (3)
