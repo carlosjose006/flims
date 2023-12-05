@@ -3289,4 +3289,8 @@ https://server12.peliscdn.online/newhls/9ab2d87bed2352340617531031045a3e/EP.0.2.
 #EXTGRP:Extrenos
 https://server17.peliscdn.online/newhls/0469fd16d7a8a61c4bb56bb716134d2d/EP.0.0.v0.1701519212.720.m3u8
 
+#EXTINF:-1,Cueve de la muerte
+#EXTGRP:Solicitudes
+https://server05.peliscdn.online/newhls/6248566ad6d107ef9a98d656e3c4d042/EP.0.2.v0.1675975457.m3u8
+
 
