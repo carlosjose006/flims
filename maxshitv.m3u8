@@ -1,5 +1,112 @@
 #EXTM3U
 
+#EXTINF:0,Colimdotv
+#EXTGRP:REPUBLICA DOMINICANA
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:0,2 | Teleantillas
+#EXTGRP:REPUBLICA DOMINICANA
+http://170.82.37.21:8000/play/a03x/index.m3u8
+#EXTINF:0,4 | CERTV
+#EXTGRP:REPUBLICA DOMINICANA
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1916691617_b831072.m3u8
+#EXTINF:0,5 | Telemicro
+#EXTGRP:REPUBLICA DOMINICANA
+http://45.5.117.182:8000/play/a0hi/index.m3u8
+#EXTINF:0,6 | Canal Del Sol
+#EXTGRP:REPUBLICA DOMINICANA
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5a08806485a34fb0bc9dcffbb55f0fa8/chunklist_b4192000.m3u8?p=79&s=1698467949&e=1698468069&h=2e2b16afd9e120d864935a22f4364fb0
+#EXTINF:0,Antena 7
+#EXTGRP:REPUBLICA DOMINICANA
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
+#EXTINF:0,8 | CDN Deportes
+#EXTGRP:REPUBLICA DOMINICANA
+http://190.149.66.90:4000/play/a01z/index.m3u8
+#EXTINF:0,9 | Color Visión
+#EXTGRP:REPUBLICA DOMINICANA
+http://45.228.232.219:16000/play/a0mt/index.m3u8
+#EXTINF:0,Color Vision HD
+#EXTGRP:REPUBLICA DOMINICANA
+https://stream-04.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RY0SipP2ivLkBGF2fZfcSYG5BPjeTHq1rAFKVl4sE7jzn)/dm/3/x7gy059/d/live-1.m3u8#cell=lsv4
+#EXTINF:0,11 | Telesistema
+#EXTGRP:REPUBLICA DOMINICANA
+http://45.5.117.182:8000/play/a0ek/index.m3u8
+#EXTINF:0,13 | Telecentro
+#EXTGRP:REPUBLICA DOMINICANA
+https://playback.akamaized.net/streams/27456795_10501048_lsij8p524j5brpaxpbw_1/media/27456795_10501048_lsij8p524j5brpaxpbw_1@628000p.m3u8?dw=14400&amp;ts=1701720000&amp;hdnts=exp=1701894147~acl=/streams/27456795_10501048_lsij8p524j5brpaxpbw_1/media*~hmac=5d520e77f5a91bc4899a699078502d9eeb62ab013bd847f98f45a0de1bfa26b0
+#EXTINF:0,15 | Digital 15
+#EXTGRP:REPUBLICA DOMINICANA
+http://51.81.93.29:8084/hls/d15.m3u8
+#EXTINF:0,16 | Teleunión
+#EXTGRP:REPUBLICA DOMINICANA
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:0,17 | EN Televisión
+#EXTGRP:REPUBLICA DOMINICANA
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:0,18 |  Noticias 16
+#EXTGRP:REPUBLICA DOMINICANA
+https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
+#EXTINF:0,19 | Cinevisión
+#EXTGRP:REPUBLICA DOMINICANA
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
+#EXTINF:0,21 | Antena 21
+#EXTGRP:REPUBLICA DOMINICANA
+https://d1841z6ti5nz2v.cloudfront.net/Canal21DO/f260159f04ed124e08b9ee0364dd4ca7.sdp/Canal21DO/Canal21DO1/chunks.m3u8
+#EXTINF:0,25 | Canal 25 || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w1873127099.m3u8
+#EXTINF:0,26 | Carivisión || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+#EXTINF:0,27 | RNN
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
+#EXTINF:0,28 | CTN
+#EXTGRP:REPUBLICA DOMINICANA
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
+#EXTINF:0,29 | Teleuniverso
+#EXTGRP:REPUBLICA DOMINICANA
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:0,36 | Bajo Techo TV || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
+#EXTINF:0,37 | CDN 37 || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1698550115&e=1698550235&h=b6608db1e6e6cb856e4557b8d95ea40a
+#EXTINF:0,42 | Romana TV || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:0,47 | Ame 47 || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w2069173752.m3u8
+#EXTINF:0,48 | Vegateve || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://kali.vdopanel.com:3396/live/arseniolive.m3u8
+#EXTINF:0,49 | TVO Romana || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
+#EXTINF:0,52 | Teleimpacto || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:0,55 | SuperTV55 || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w1490544095.m3u8
+#EXTINF:0,58 | Cielo TV || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:0,70 | Galaxia TeVe|| REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+#EXTINF:0,71 | Xtremo Premium|| REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss9.domint.net:3002/xtr_str/xtremochannel/chunklist_w872790353.m3u8
+#EXTINF:0,74 | GDM Estudio || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w224140663.m3u8
+#EXTINF:0,76 | Boreal || REPUBLICA DOMINICANA
+#EXTGRP:REPUBLICA DOMINICANA
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/1
