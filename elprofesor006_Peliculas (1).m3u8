@@ -1,4 +1,6 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One More Shot LAT  " tvg-logo="One More Shot LAT  " group-title="Extreno",One More Shot LAT 
+https://zenex.budtv-ultra.com:9887/nane2024/MOVLAT2024/One.More.Shot2024.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Beekeeper CAM LAT " tvg-logo="The Beekeeper CAM LAT " group-title="Extreno",The Beekeeper CAM LAT 
 https://zenex.budtv-ultra.com:9887/GERA/Peliculas.2024.SUB/CAM/th3.b33k3p3r.2024.CAM.LAT.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animales Fantásticos 3: Los Secretos de Dumbledore" tvg-logo="" group-title="Animadas",Animales Fantásticos 3: Los Secretos de Dumbledore
